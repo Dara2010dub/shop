@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+body {
+    font-family: sans-serif;
+}
+header{
+   border: 3px solid blue; 
+   color: darkblue;
+   font-size: 20px;
+   border-radius: 7px;
+   padding: 10px;
+}
+.one{
+    color: white;
+    background-color: blue;
+    padding:5px ;
+    border-radius: 7px;
+    text-decoration: none;
+}
+h1{
+    font-family: 'Nerko One', cursive;
+    text-align:center;
+    color: cadetblue;
+
+}
+footer p{
+    border: 3px solid blue; 
+   color: darkblue;
+   font-size: 15px;
+   border-radius: 7px;
+   padding: 5px;
+}
+nav{
+   text-align:center; 
+   margin-top: 20px;
+}
+nav a{
+    font-size: 19px; 
+    text-decoration: none;
+    border: 3px solid blue; 
+    margin: 5px;
+    border-radius: 7px;
+    background-color: blue;
+    color: white;
+    padding: 5px;
+}
+.two{
+    background-color:white;
+    color: blue;
+}
+.tree {
+    border: 3px solid blue;
+    background-image:url('https://damion.club/uploads/posts/2022-09/1663790149_6-damion-club-p-estetichnie-oboi-serdechki-vkontakte-6.jpg') ;
+
+  background-size: contain;
+}
+.abc{
+    text-align:center;
+    color: white;
+    background-color: blue;
+    padding:5px ;
+    border-radius: 7px;
+    text-decoration: none;
+}
